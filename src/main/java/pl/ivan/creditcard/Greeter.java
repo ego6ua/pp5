@@ -1,4 +1,4 @@
-package pl.ppluta.creditcard;
+package pl.ivan.creditcard;
 
 public class Greeter {
     public String hello(String inputName) {

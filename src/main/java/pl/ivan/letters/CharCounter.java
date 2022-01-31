@@ -1,4 +1,4 @@
-package pl.ppluta.letters;
+package pl.ivan.letters;
 
 public class CharCounter {
     public int count(String charToBeCounted, String inputStr) {

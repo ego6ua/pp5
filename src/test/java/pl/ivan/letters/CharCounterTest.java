@@ -1,6 +1,8 @@
-package pl.ppluta.letters;
+package pl.ivan.letters;
 
 import org.junit.jupiter.api.Test;
+
+import pl.ivan.letters.CharCounter;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
